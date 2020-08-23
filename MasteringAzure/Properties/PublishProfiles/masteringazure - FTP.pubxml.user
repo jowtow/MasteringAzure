@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAtrsxfHQhME2TepbL9/GwLAAAAAACAAAAAAAQZgAAAAEAACAAAAAKtv0cdfaQhtOxWpsikws6w8MrhZ3AJjOBGetau8YMnwAAAAAOgAAAAAIAACAAAACTjwNqOOhxRN8yCseRh3VhR1uXoPQwJr5oMkVQ48eOCIAAAABUzV+hwZHmAKTCvveAimCIALoLt2ZZ1tgAE7o1sZWe/Ie9DUjF46D1SGbBF5MjgpAotwpTBMpYh+ZBkGyp/NLqSehjrNsshO0rYsggahD14CvviqjjhxhyY09eU3YGsd3OL06cim0THUueq6NWh70uLtnPFoKYL/fMMRDQPaUIqUAAAAAgkFmGFUtj6nHC67V0N7FajdjETU6KwHx8b1z5PN4PQxr417dFRi2bQdmhElm/d+QKkAM2iMkUbfA5TiE/NoFx</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-blu-049.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>08/23/2020 18:03:05</publishTime>
+    </File>
+    <File Include="Connected Services/Application Insights/ConnectedService.json">
+      <publishTime>08/23/2020 18:03:08</publishTime>
+    </File>
+    <File Include="MasteringAzure.deps.json">
+      <publishTime>08/23/2020 18:05:21</publishTime>
+    </File>
+    <File Include="MasteringAzure.dll">
+      <publishTime>08/23/2020 18:05:14</publishTime>
+    </File>
+    <File Include="MasteringAzure.pdb">
+      <publishTime>08/23/2020 18:05:14</publishTime>
+    </File>
+    <File Include="MasteringAzure.runtimeconfig.json">
+      <publishTime>08/23/2020 18:05:21</publishTime>
+    </File>
+    <File Include="MasteringAzure.Views.dll">
+      <publishTime>08/23/2020 18:05:17</publishTime>
+    </File>
+    <File Include="MasteringAzure.Views.pdb">
+      <publishTime>08/23/2020 18:05:17</publishTime>
+    </File>
+    <File Include="Microsoft.AI.DependencyCollector.dll">
+      <publishTime>10/19/2018 15:44:10</publishTime>
+    </File>
+    <File Include="Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>10/19/2018 16:03:38</publishTime>
+    </File>
+    <File Include="Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>10/19/2018 19:26:48</publishTime>
+    </File>
+    <File Include="Microsoft.AI.WindowsServer.dll">
+      <publishTime>10/19/2018 16:01:22</publishTime>
+    </File>
+    <File Include="Microsoft.ApplicationInsights.AspNetCore.dll">
+      <publishTime>10/22/2018 23:38:16</publishTime>
+    </File>
+    <File Include="Microsoft.ApplicationInsights.dll">
+      <publishTime>10/19/2018 19:18:06</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.PlatformAbstractions.dll">
+      <publishTime>04/02/2019 16:21:49</publishTime>
+    </File>
+    <File Include="Serilog.dll">
+      <publishTime>06/20/2017 17:25:26</publishTime>
+    </File>
+    <File Include="Serilog.Extensions.Logging.dll">
+      <publishTime>08/28/2017 06:25:10</publishTime>
+    </File>
+    <File Include="Serilog.Extensions.Logging.File.dll">
+      <publishTime>02/18/2020 09:40:10</publishTime>
+    </File>
+    <File Include="Serilog.Formatting.Compact.dll">
+      <publishTime>07/05/2016 02:28:44</publishTime>
+    </File>
+    <File Include="Serilog.Sinks.Async.dll">
+      <publishTime>06/26/2017 22:28:16</publishTime>
+    </File>
+    <File Include="Serilog.Sinks.File.dll">
+      <publishTime>01/03/2017 02:29:38</publishTime>
+    </File>
+    <File Include="Serilog.Sinks.RollingFile.dll">
+      <publishTime>01/03/2017 03:05:26</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>08/23/2020 18:05:21</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.css">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.min.css">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/favicon.ico">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/images/banner1.svg">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/images/banner2.svg">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/images/banner3.svg">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/js/site.js">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/js/site.min.js">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/.bower.json">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css.map">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css.map">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css.map">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/npm.js">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/LICENSE">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/.bower.json">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/.bower.json">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.js">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.min.js">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.js">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.min.js">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/LICENSE.md">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/.bower.json">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.js">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.js">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.map">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/LICENSE.txt">
+      <publishTime>08/23/2020 16:45:55</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
