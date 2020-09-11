@@ -20,5 +20,4 @@ jobs:
     displayName: 'dotnet build $(buildConfiguration)'
 - job: Publish
   steps:
-  - script: dotnet publish
-    displayName: 'dotnet puslish'
+  - script: dotnet publish --configuration $(BuildConfiguration) --output $(build.artifactstagingdirectory)'
